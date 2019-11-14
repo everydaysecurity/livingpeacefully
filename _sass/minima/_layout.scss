@@ -304,8 +304,20 @@
 .sidenav a {
   display: block;
   text-decoration: none; /* Remove underline */
+  color: black;
+}
+
+.sidebar a.active {
+  background-color: #cc0000;
   color: white;
-  transition:0.5s;
+}
+
+//behavior when mouse over
+.sidebar a:hover: not(.active)  {
+  color: white;
+ // transition: 0.5s;
+  background-color: #cc0000;
+ // transition:0.5s;
 }
 
 
