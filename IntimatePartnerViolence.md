@@ -18,5 +18,7 @@ Intimate partner violence is a type of violence involving intimate partners, suc
 
 - Fifth, authorities generally act long after the abuse begins. And since there are only few internet IPV experts within local authorities, it is very difficult to confirm and charge the abuser.  
 
+![stalking](stalking.jpg | height = 500)
+
 - All of these lead to the last reason: many abusers believe that they can get away with these behaviors because it can't be proven who did it or rarely a law or regulation would work for their violence. Unfortunately, there is true. Too often, we hear from survivors that the harassment will not be investigated because no one knows what to do or what laws are being broken. (Anderson, 2016)
-![stalking](stalking.jpg)
+
