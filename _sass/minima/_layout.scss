@@ -313,7 +313,7 @@
 }
 
 //behavior when mouse over
-.sidebar a:hover:not(.active)  {
+.sidebar a:hover {
   color: white;
  // transition: 0.5s;
   background-color: #cc0000;
