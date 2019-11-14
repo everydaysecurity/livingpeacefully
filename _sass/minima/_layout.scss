@@ -16,6 +16,7 @@
   font-weight: 300;
   letter-spacing: -1px;
   margin-bottom: 50;
+  margin-left: 50px;
   float: left;
 
   @include media-query($on-palm) {
