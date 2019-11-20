@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 4;
@@ -15,8 +14,7 @@
   @include relative-font-size(1.625);
   font-weight: 300;
   letter-spacing: -1px;
-  margin-bottom: 50;
-  margin-left: 50px;
+  margin-left: 250px;
   float: left;
 
   @include media-query($on-palm) {
@@ -28,6 +26,22 @@
     color: $grey-color-dark;
   }
 }
+
+.site-title a {
+  display: block;
+  text-decoration: none; /* Remove underline */
+  color: white;
+}
+/**
+* Try to add a hover effect to sidebar
+*/
+.site-title a:hover {
+  display: block;
+  color: white;
+  transition: 0.5s;
+  text-decoration: none; /* Remove underline */
+}
+
 
 .site-nav {
   position: absolute;
@@ -124,6 +138,7 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
+  margin-left: 180px;
   padding: $spacing-unit 0;
 }
 
@@ -292,36 +307,37 @@
 /* Style the sidebar - fixed full height */
 .sidebar {
   height: 100%;
-  width: 160px;
+  width: 180px;
   position: fixed;
   z-index: 1;
-  top: 10;
-  left: 10;
-  background-color: #fdfdfd;
+  margin-top: -117px;
+  margin-left: -30px;
+  background-color: #cc0000;
   overflow-x: hidden;
   padding-top: 16px;
 }
 
 .sidebar a {
+  color: white;
   display: block;
+  padding: -30px;
   text-decoration: none; /* Remove underline */
-  color: black;
+  transition: 0.5s;
 }
 
 .sidebar a.active {
-  background-color: #cc0000;
-  color: white;
+  background-color: #424242;
 }
-
-//behavior when mouse over
-.sidebar a:hover {
-  color: white;
- // transition: 0.5s;
-  background-color: #cc0000;
- // transition:0.5s;
+/**
+* Try to add a hover effect to sidebar
+*/
+.sidebar a:hover:not(.active) {
+  color: #424242;
+  transition: 0.5s;
+  background-color: #fdfdfd;
+  /*transition:0.5s;*/
+  text-decoration: none; /* Remove underline */
 }
-
-
 
 /**
  * Grid helpers
