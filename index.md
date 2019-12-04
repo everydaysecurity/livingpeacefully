@@ -7,7 +7,7 @@ image: nc_state.jpg
 <h2>Hello! We are a division under Everyday Security and we are dedicated to
 providing you with the latest information on cyber stalking and intimate partner violence.</h2>
 
-<img src="/livingpeacefully/images/stalkingStatistics.jpg" alt="Cyber Stalking Statistics" width = "549" height = "448" align="middle"/>
+<img src="/livingpeacefully/images/stalkingStatistics.jpg" alt="Cyber Stalking Statistics" width = "540" height = "324" align="middle"/>
 
 <em>Statistics provided by U.S. Bureau of Statistics</em>
 
