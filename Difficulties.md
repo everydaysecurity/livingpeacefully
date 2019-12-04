@@ -22,8 +22,8 @@ permalink: /difficulties/
   <strong>Our Advice:</strong> <br>
   Having others gain physically access to your mobile device always make you vulnerable to IPV no matter how strong or unique your password is. Therefore, keeping possession of your mobile devices <strong>at all times</strong> is the best way to protect your privacy while you're in a intimate relationship.
 
-  When you feel like your privacy is being violated by an intimate partner, don't be afraid to call for help.
-  National Domestic Violence Hotline <strong>1−800−799−7233</strong> <br>
+  When you feel like your privacy is being violated by an intimate partner, don't be afraid to call for help. <br>
+  National Domestic Violence Hotline <strong>1−800−799−7233</strong> 
                                      <strong>1−800−787−3224</strong> <br>
-  Crime Victims Hotline              <strong>1-866-689-4357</strong> <br>
+  Crime Victims Hotline              <strong>1-866-689-4357</strong>
                                      <strong>1-800-621-4673</strong> <br>
