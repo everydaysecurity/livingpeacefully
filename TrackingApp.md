@@ -4,6 +4,9 @@ title: Tracking App
 permalink: /trackingapp/
 ---
 
+<img src="/livingpeacefully/images/Tracking_app.jpg"
+     alt="Tracking App" align="middle" />
+
 <h2>Which types of apps are used for intimate partner violence (IPV)?</h2>
 
 While some applications are malicious, others are designed to make our life easier by sharing the location with our loved ones.<br>
@@ -12,8 +15,6 @@ While some applications are malicious, others are designed to make our life easi
 - Designed to track the user and expose their private information to others without them noticing.
 - Can be purchased online and installed on target’s mobile phone
 - Some can also gain access to one’s text messages, browser history, and photo gallery.
-
-![Tracking_app](Tracking_app.jpg)
 
 - <strong>Location tracking applications</strong>
 - Designed with the intention of keeping family members & friends closer by sharing location with each other.
