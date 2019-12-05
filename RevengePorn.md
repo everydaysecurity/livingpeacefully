@@ -9,7 +9,7 @@ As previously mentioned, one kind of harass of IPV is to leak private informatio
 
 Generally, when this kind of action happened during IPV, it is a sign that the abuser tries to ruin the private life of the victim. As a result, more private information, like the contact information, even the information from the friends or family of the victim may facing the leak.
 
-<img src="/livingpeacefully/social media.jpg" alt="stalking" width="200" height="200" />
+<img src="/livingpeacefully/social media.jpg" alt="stalking" width="300" height="300" />
 
 <h2>How serious is it?</h2>
 In 2014, an anonymous user posted a large archive of nude or partially-clad images of female celebrities to the image-sharing website 4Chan. The pictures were mostly selfies of some of the most famous women in the world, including Jennifer Lawrence. 
