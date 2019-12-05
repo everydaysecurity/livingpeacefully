@@ -21,3 +21,6 @@ In general, the abuser probably has access to your information and privacy throu
 - Check the system setting, be aware that the emergency contect method, like Find My Iphone, those may already compromised to the abuser.
 
 - Use new device, or public device like from Library, if it is possible.
+
+- National Domestic Violence Hotline 1−800−799−7233, 1−800−787−3224
+- Crime Victims Hotline 1-866-689-4357, 1-800-621-4673
