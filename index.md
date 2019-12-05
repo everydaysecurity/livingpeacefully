@@ -22,5 +22,6 @@ providing you with the latest information on cyber stalking and intimate partner
 - <strong>76%</strong> of intimate partner femicide victims have been stalked by their intimate partner.
 - <strong>89% </strong> of femicide victims who had been physically assaulted had also been stalked in the 12 months before their murder
 - <strong>1 in 7 </strong> stalking victims have to move to escape from the abuser in the end.
-
+- <strong> one in 25 </strong> Americans has been the victim of revenge porn.
+- <strong> 10% </strong> of women under 30 have experienced threats to share images nonconsensually.
 <em>Information provided by Stalking Resource Center</em>
