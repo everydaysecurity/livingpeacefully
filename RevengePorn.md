@@ -4,7 +4,7 @@ title: Revenge Pornography
 permalink: /RevengePorn/
 ---
 
-<img src="/livingpeacefully/images/social media.jpg" alt="stalking" width="300" height="200"/>
+<img src="/livingpeacefully/images/social media.jpg" alt="stalking" width="500" height="300"/>
 
 <h2>What is Nonconsensual pornography or revenge porn?</h2>
 An action that involves uploading nude/semi-nude images or videos <strong>without the owner's consent </strong>, which is an example of information leak. When this action is based on revenge for one's former/current intimate partner, it is categorized as revenge porn.<br>
@@ -12,11 +12,13 @@ An action that involves uploading nude/semi-nude images or videos <strong>withou
 Generally, this is a sign of the abuser attempting to exhaust the private life of the victim. As a result, more private information such as contact information, address and even pictures of family members.
 
 <h2>How serious is it?</h2>
-In 2014, an anonymous user posted a large archive of nude or partially-clad images of female celebrities to the image-sharing website 4Chan. The pictures were mostly selfies of some of the most popular celebrities in the world, including Jennifer Lawrence.
+In 2014, an anonymous user posted a large archive of nude or partially-clad images of female celebrities to the image-sharing website 4Chan. The pictures were mostly selfies of some of the most popular celebrities in the world, including Jennifer Lawrence, leaving a forever lasting effect on their public images and lives.
 
-- These picture sadly would never disappear on the internet, and was meant to publicly shame and humiliate the victim.
+<h2>Traits of Revenge Porn</h2>
 
-- The other anonymous user may follow the abuser to harass the victim. The victim may have to delete their account for a fresh start.
+- Can't be fully be deleted from the internet
+
+- The public may cause further damage to the victim by harassing on social media
 
 - Survivors were less likely to report to the police when the perpetrator was someone they knew due to shame, embarrassment, which are similar to the sexual assault  victims.
 

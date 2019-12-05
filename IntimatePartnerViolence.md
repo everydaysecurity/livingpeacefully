@@ -4,7 +4,7 @@ title: Intimate Partner Violence
 permalink: /intimatepartnervoilence/
 ---
 
-<img src="/livingpeacefully/stalking.jpg" alt="stalking" width="300" height="500" align="middle" />
+<img src="/livingpeacefully/images/stalking.jpg" alt="stalking" width="300" height="500" align="middle" />
 
 <strong>What is Intimate Partner Violence(IPV)?</strong><br>
 Intimate partner violence is a type of violence involving current or former intimate partners. This type of violence has shifted its definition from physical abuse and stalking to exploiting technology in order to track, harass, and intimidate one's intimate partner.<br>
