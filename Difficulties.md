@@ -18,12 +18,3 @@ permalink: /difficulties/
 
 * <strong>Spyware's ability to be hidden and easily installed</strong> <br>
   You can find a variety of spyware on the internet just by searching. And after installing the app, it can be very hard to get rid of them mainly due to their ability to hide from the human eye. Most of the spyware doesn't have an icon, which is very hard for the victim to identify. In addition, these applications usually can't be detected by anti-virus and anti-spyware softwares, therefore doesn't get any attention from the user.
-
-  <strong>Our Advice:</strong> <br>
-  Having others gain physically access to your mobile device always make you vulnerable to IPV no matter how strong or unique your password is. Therefore, keeping possession of your mobile devices <strong>at all times</strong> is the best way to protect your privacy while you're in a intimate relationship.
-
-  When you feel like your privacy is being violated by an intimate partner, don't be afraid to call for help. <br>
-  National Domestic Violence Hotline <strong>1−800−799−7233</strong>,
-                                     <strong>1−800−787−3224</strong> <br>
-  Crime Victims Hotline              <strong>1-866-689-4357</strong>,
-                                     <strong>1-800-621-4673</strong> <br>
