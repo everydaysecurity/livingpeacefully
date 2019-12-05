@@ -14,7 +14,7 @@ Intimate partner violence is a type of violence involving current or former inti
 
 - Second, cyber violence is easily abusable since it can be conducted from a variety of devices such as computers, cellphones, and basically anything that has access to the internet.
 
-- Third, due to the transparency and publicity nature of the internet, leaked private information can be <strong>long-lasting</strong> and <strong>impossible</strong> to remove from the web. For example, some private picture leaked on Facebook may never disappear on the internet. Furthermore, it can leave a  life-lasting trauma to the victim.
+- Third, due to the transparency and publicity nature of the internet, leaked private information can be <strong>long-lasting</strong> and <strong>impossible</strong> to remove from the web. For example, some private picture leaked on Facebook may never disappear on the internet. Furthermore, it can leave a  life-lasting trauma to the victim. This kind of harass is called Nonconsensual Pornography, which include revenge porn, posing sexual picture or video to public.
 
 - Fourth, when private information leaks, the abuser may harass not only the victim but also the victim's family members, closed friends, etc, which could cause a catastrophe on the social life of the victim.
 
