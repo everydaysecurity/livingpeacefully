@@ -42,12 +42,12 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - FirstAid.md
  - IntimatePartnerViolence.md
- - TrackingApp.md
- - RevengePorn.md
+ - FirstAid.md
  - Difficulties.md
  - WhatToDo.md
+ - TrackingApp.md
+ - RevengePorn.md
 
 # Build settings
 theme: minima
