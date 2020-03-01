@@ -16,15 +16,15 @@ body {
 
 /* Style the header */
 .header {
-  background-color: #f1f1f1;
+  background-image: url(/images/hacking.jpg);
   padding: 20px;
   text-align: center;
 }
-
+/*
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #CC0000;
+  background-color: rgb(145, 136, 136);
 }
 
 /* Style the topnav links */
@@ -62,4 +62,26 @@ body {
   .column {
     width: 100%;
   }
+}
+
+.content img {
+
+  width: 300px;
+  height: 300px;  
+
+}
+
+.content {
+  background-color: rgb(219, 215, 215);
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 10px;
+}
+
+#container {
+  width:100%;
+  text-align:center;
 }
