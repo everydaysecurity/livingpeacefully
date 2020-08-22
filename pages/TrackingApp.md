@@ -4,7 +4,7 @@ title: Tracking App
 permalink: /trackingapp/
 ---
 
-<img src="/images/Tracking_app.jpg"
+<img src="images/Tracking_app.jpg"
      alt="Tracking App" align="middle" height="500" width="500"/>
 
 <h2>Which types of apps are used for intimate partner violence (IPV)?</h2>
