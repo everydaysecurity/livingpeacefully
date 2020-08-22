@@ -16,7 +16,7 @@ body {
 
 /* Style the header */
 .header {
-  background-image: url(/images/hacking.jpg);
+  background-image: url(https://everydaysecurity.github.io/livingpeacefully/images/hacking.jpg);
   padding: 20px;
   text-align: center;
 }
