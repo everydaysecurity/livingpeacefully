@@ -1,8 +1,10 @@
 ---
 layout: page
-title: What to do
+title: What To Do
 permalink: /whattodo/
 ---
+
+<img src="../images/IPV2.jpg" alt="Hacking" class="center">
 
 When you feel like your privacy is being violated by an intimate partner, don't be afraid to call for help. <br>
   National Domestic Violence Hotline <strong>1−800−799−7233</strong>,
