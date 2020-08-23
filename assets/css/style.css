@@ -1,13 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=B612&display=swap');
 
 * {
-    font-family: 'B612', sans-serif;
-    color:#777;
     box-sizing: border-box;
-}
-
-* {
-  box-sizing: border-box;
+    image;
 }
 
 body {
@@ -16,16 +10,28 @@ body {
 
 /* Style the header */
 .header {
-  background-image: url(https://everydaysecurity.github.io/livingpeacefully/images/hacking.jpg);
+  background-color: #05386b;
   padding: 20px;
   text-align: center;
+  color: #379683;
+  font-family: Lato,sans-serif;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 1.7;
 }
 
-/*
+/* makes sure centered images are centered */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: rgb(145, 136, 136);
+  background-color: #379683;
 }
 
 /* Style the topnav links */
@@ -41,7 +47,7 @@ body {
 /* Change color on hover */
 .topnav a:hover {
   background-color: #ddd;
-  color: black;
+  color: #05386b;
 }
 
 /* Create three equal columns that floats next to each other */
@@ -73,8 +79,10 @@ body {
 }
 
 .content {
-  background-color: rgb(219, 215, 215);
+  background-color:whitesmoke;
   display: flex;
+  text-align: center;
+  color: #05386b;
 }
 
 .column {
@@ -86,3 +94,25 @@ body {
   width:100%;
   text-align:center;
 }
+
+/* body font color as well as font */
+body {
+  font-family: Lato,sans-serif;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #555;
+  text-align: left;
+  margin-left: 20px;
+  word-break: break-word;
+}
+
+h2 {
+  color: #379683;
+}
+
+h1 {
+  color: #05386b;
+  text-align: center;
+}
+
