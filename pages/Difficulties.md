@@ -3,7 +3,6 @@ layout: page
 title: Difficulties in Defense
 permalink: /difficulties/
 ---
-
 <img src="../images/hacking.jpg" alt="Hacking" width="670" height="502">
 
 <h2>Why it is so difficult to prevent IPV?</h2>
