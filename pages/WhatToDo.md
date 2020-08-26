@@ -2,6 +2,7 @@
 layout: page
 title: What To Do
 permalink: /whattodo/
+order: 6
 ---
 
 <img src="../images/IPV2.jpg" alt="Hacking" class="center">

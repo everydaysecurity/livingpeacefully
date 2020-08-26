@@ -2,6 +2,7 @@
 layout: page
 title: Difficulties in Defense
 permalink: /difficulties/
+order: 2
 ---
 <img src="../images/hacking.jpg" class="center" alt="Hacking" width="670" height="502">
 

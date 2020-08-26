@@ -2,6 +2,7 @@
 layout: page
 title: Tracking App
 permalink: /trackingapp/
+order: 5
 ---
 
 <img src="../images/Tracking_app.jpg" alt="Tracking App" class="center" height="500" width="500"/>

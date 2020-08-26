@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-image: nc_state.jpg
+order: 1
 ---
 
 
