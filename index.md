@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Live Peacefully
+title: Home
 image: nc_state.jpg
 ---
 

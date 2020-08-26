@@ -7,16 +7,12 @@ layout: default
 	<a href="../">
 		<img src="../images/livingpeacefully.png" width=746 height=239>
 	</a>
-	<p>Our website is an education portal for intimate partner stalking</p>
   </div>
 
 <div class="topnav">
-  <a href="../difficulties">Difficulties</a>
-  <a href="../FirstAid">First Aid</a>
-  <a href="../whattodo">What To Do</a>
-  <a href="../RevengePorn">Ways of IPV</a>
-  <a href="../trackingapp">Tracking App</a>
-
+  {% for item in site.pages %}
+    <a href="{{ item.url }}">{{ item.title }}</a>
+  {% endfor %}
 </div>
   <div class="post-content">
     {{ content }}

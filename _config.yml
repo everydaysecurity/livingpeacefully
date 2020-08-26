@@ -2,7 +2,7 @@ title: Living Peacefully
 author: NCSU Computer Science Department
 email: everydaysecurit@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Our website is an education portal for intimate partner stalking
+  Our website is an education portal for intimate partner violence
 
 logo: _images/nc_state.jpg
 url: https://everydaysecurity.github.io/livingpeacefully/
@@ -42,13 +42,11 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - IntimatePartnerViolence.md
  - FirstAid.md
  - Difficulties.md
  - WhatToDo.md
  - TrackingApp.md
  - RevengePorn.md
-
 # Build settings
 theme: minima
 
