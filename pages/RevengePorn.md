@@ -5,7 +5,7 @@ permalink: /RevengePorn/
 order: 4
 ---
 
-<img src="../images/social_media.jpg" alt="stalking" class="center" width="500" height="500"/><br>
+<img src="../images/social_media.jpg" alt="stalking" class="center responsive-content" width="500" height="500"/><br>
 
 <h1 class="center">Revenge Porn</h1>
 

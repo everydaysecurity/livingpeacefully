@@ -3,20 +3,6 @@ layout: default
 ---
 <article class="post">
   
-  <div class="header">
-	<a href="../">
-		<img src="../images/livingpeacefully.png" width=746 height=239>
-	</a>
-  </div>
-
-<div class="topnav">
-  {% assign sorted_pages = site.pages | sort:"order" %}
-  {% for node in sorted_pages %}
-    {% if node.title %}
-     <a href="{{ site.baseurl }}{{ node.url }}">{{node.title}}</a>
-	{% endif %}
-  {% endfor %}
-</div>
   <div class="post-content">
     {{ content }}
   </div>

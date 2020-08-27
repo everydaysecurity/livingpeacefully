@@ -5,18 +5,22 @@ permalink: /trackingapp/
 order: 5
 ---
 
-<img src="../images/Tracking_app.jpg" alt="Tracking App" class="center" height="500" width="500"/>
+<img src="../images/Tracking_app.jpg" alt="Tracking App" class="center responsive-content" height="500" width="500"/>
 
 <h2>Which types of apps are used for intimate partner violence (IPV)?</h2>
 
 While some applications are malicious, others are designed to make our life easier by sharing the location with our loved ones.<br>
 
-- <strong>Spy applications</strong>
+<strong>Spy applications</strong>
+
+
 - Designed to track the user and expose their private information to others without them noticing.
 - Can be purchased online and installed on target’s mobile phone
 - Some can also gain access to one’s text messages, browser history, and photo gallery.
 
-- <strong>Location tracking applications</strong>
+<strong>Location tracking applications</strong>
+
+
 - Designed with the intention of keeping family members & friends closer by sharing location with each other.
 - Exp: <em>Life360</em>, <em>iMapp</em>, <em>Glympse</em>
 - On Life360’s website, it stated that their mission was to "...bring your family closer with smart features designed to protect and connect the people who matter most."

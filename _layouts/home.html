@@ -1,29 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-<title>Home</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-{%- seo -%}
-<link rel = "stylesheet" type = "text/css" href = "assets/css/style.css">
-</head>
+{%- include head.html -%}
 
 <body>
 
 <div class="header">
-  <a href="">
-    <img src="images/livingpeacefully.png" width=746 height=239>
-  </a>
+    <img src="images/livingpeacefully.png" class="responsive-content" width=746 height=239>
 </div>
 
-<div class="topnav">
+<div class="topnav" id="myTopnav">
   {% assign sorted_pages = site.pages | sort:"order" %}
   {% for node in sorted_pages %}
     {% if node.title %}
      <a href="{{ site.baseurl }}{{ node.url }}">{{node.title}}</a>
 	{% endif %}
   {% endfor %}
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
 </div>
   
   <div>
@@ -35,25 +30,25 @@
   <div class="content">
     <div class="column"style="width:100%"> 
       <a href="pages/prevention_page.html">
-        <img src="images/prevention.png">
+        <img src="images/prevention.png" class="responsive-content">
       </a>
         <p>Here you can find helpful tips on preventing IPV</p>
     </div>
     <div class="column" style="width:100%">
       <a href="pages/WhatToDo.md">
-        <img src="images/manifestations.png">
+        <img src="images/manifestations.png" class="responsive-content">
       </a>
       <p>Here you can find some examples of IPV</p>
     </div>
     <div class="column" style="width:100%"> 
       <a href="pages/WhatToDo.md">
-        <img src="images/recovery.png">
+        <img src="images/recovery.png" class="responsive-content">
       </a>
       <p>Here you can find some information on recovering from IPV</p>
     </div>
     <div class="column" style="width:100%">
       <a href="pages/WhatToDo.md">
-        <img src="images/taking_action.png">
+        <img src="images/taking_action.png" class="responsive-content">
       </a>
       <p>Here you can find information about the next step after experiencing IPV</p>
     </div>
@@ -61,6 +56,16 @@
   <div class="wrapper">
         {{ content }}
    </div>
+   <script>
+		function myFunction() {
+		  var x = document.getElementById("myTopnav");
+		  if (x.className === "topnav") {
+			x.className += " responsive";
+		  } else {
+			x.className = "topnav";
+		  }
+		}
+	</script>
 <footer>
   <br>
   <hr>

@@ -3,11 +3,9 @@ layout: home
 title: Home
 order: 1
 ---
-
-
   <hr>
   <div>
-    <img src="images/stalkingStatistics.jpg" alt="Cyber Stalking Statistics" width = "530" height = "390" class="center" /><br>
+    <img src="images/stalkingStatistics.jpg" alt="Cyber Stalking Statistics" width = "530" height = "390" class="center responsive-content" /><br>
 
   <em class="center">Statistics provided by U.S. Bureau of Statistics</em>
 

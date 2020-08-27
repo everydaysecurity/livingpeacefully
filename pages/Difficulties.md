@@ -4,7 +4,7 @@ title: Difficulties in Defense
 permalink: /difficulties/
 order: 2
 ---
-<img src="../images/hacking.jpg" class="center" alt="Hacking" width="670" height="502">
+<img src="../images/hacking.jpg" class="center responsive-content" alt="Hacking" width="670" height="502">
 
 <h2>Why it is so difficult to prevent IPV?</h2>
 

@@ -5,12 +5,36 @@
 
 
   <body>
+	<div class="header">
+		<img src="{{ site.baseurl }}/images/livingpeacefully.png" class="responsive-content" width=746 height=239>
+	</div>
 
+	<div class="topnav" id="myTopnav">
+	  {% assign sorted_pages = site.pages | sort:"order" %}
+	  {% for node in sorted_pages %}
+		{% if node.title %}
+		 <a href="{{ site.baseurl }}{{ node.url }}">{{node.title}}</a>
+		{% endif %}
+	  {% endfor %}
+	  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+		<i class="fa fa-bars"></i>
+	  </a>
+	</div>
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
+	   <script>
+		function myFunction() {
+		  var x = document.getElementById("myTopnav");
+		  if (x.className === "topnav") {
+			x.className += " responsive";
+		  } else {
+			x.className = "topnav";
+		  }
+		}
+	</script>
   <footer>
   <br>
   <hr>
@@ -18,8 +42,7 @@
   <div>
     We are the Living Peacefully Team under the Everyday Security Project at the NC State University. <br>
     Our mission is to provide reliable and up-to-date intimate partner violence (IPV) information to the public.
-  </div>
-    
+  </div>    
 <br>
 </footer>
   </body>
