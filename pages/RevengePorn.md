@@ -4,10 +4,9 @@ title: Revenge Pornography
 permalink: /RevengePorn/
 order: 4
 ---
+<h1 class="center">Revenge Porn</h1>
 
 <img src="../images/social_media.jpg" alt="stalking" class="center responsive-content" width="500" height="500"/><br>
-
-<h1 class="center">Revenge Porn</h1>
 
 <h2>What is Nonconsensual pornography or revenge porn?</h2>
 An action that involves uploading nude/semi-nude images or videos <strong>without the owner's consent </strong>, which is an example of information leak. When this action is based on revenge for one's former/current intimate partner, it is categorized as revenge porn.<br>

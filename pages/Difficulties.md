@@ -4,6 +4,8 @@ title: Difficulties in Defense
 permalink: /difficulties/
 order: 2
 ---
+<h1 class="center">Difficulties in Defense</h1>
+
 <img src="../images/hacking.jpg" class="center responsive-content" alt="Hacking" width="502.5" height="376.5">
 
 <h2>Why it is so difficult to prevent IPV?</h2>

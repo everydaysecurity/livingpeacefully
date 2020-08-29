@@ -4,6 +4,7 @@ title: What To Do
 permalink: /whattodo/
 order: 6
 ---
+<h1 class="center">What To Do</h1>
 
 <img src="../images/IPV2.jpg" alt="Hacking" class="center responsive-content">
 

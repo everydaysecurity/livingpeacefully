@@ -4,6 +4,7 @@ title: Tracking App
 permalink: /trackingapp/
 order: 5
 ---
+<h1 class="center">Tracking App</h1>
 
 <img src="../images/Tracking_app.jpg" alt="Tracking App" class="center responsive-content" height="500" width="500"/>
 
