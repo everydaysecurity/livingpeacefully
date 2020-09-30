@@ -2,11 +2,11 @@
 layout: page
 title: What To Do
 permalink: /whattodo/
-order: 6
+order: 7
 ---
 <h1 class="center">What To Do</h1>
 
-<img src="../images/IPV2.jpg" alt="Hacking" class="center responsive-content">
+<img src="../images/IPV2.jpg" class="center responsive-content">
 
 When you feel like your privacy is being violated by an intimate partner, don't be afraid to call for help. <br>
   National Domestic Violence Hotline <strong>1−800−799−7233</strong>,
@@ -27,7 +27,7 @@ repetitions. (0000, 1111)<br>
 
 *	Be aware of who has access to your device and watch out for any unfamiliar application in your phone that you didn't install.<br>
 
-*	Protect the device with antivirus/antimalware software, althuogh they aren’t aiming for spy apps, they still doing a great job for about half of the malicious apps.<br>
+*	Protect the device with antivirus/antimalware software, although they aren’t aiming for spy apps, they still doing a great job for about half of the malicious apps.<br>
 
 *	Constantly check your device about settings and applications, especially for those require location, read/write, and sending message authority. <br>
 
